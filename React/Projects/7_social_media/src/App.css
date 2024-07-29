@@ -1,0 +1,31 @@
+.app-container{
+  display: flex;
+}
+.app-content{
+  width: 100%;
+}
+
+.post-card{
+  margin: 15px 50px;
+ 
+}
+.hashtag{
+  margin: 0px 5px;
+}
+.reactions{
+  
+  margin: 10px 0 0 0;
+}
+.sidebar{
+  min-height: 650px;
+}
+.create-post{
+  width: 50%;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+.scroll {
+  max-height: 600px;
+  overflow-y: auto;
+}
